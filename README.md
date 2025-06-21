@@ -22,7 +22,7 @@ Git
 
 1. Clone the repository:
 
-git clone https://github.com/[username]/data-science-learning.git
+git clone https://github.com/CatBQ/data-science-always-learning.git
 cd data-science-learning
 
 2. Create a virtual environment:
